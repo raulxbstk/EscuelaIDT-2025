@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/raulxbstk/EscuelaIDT-2024/main/Images/IDT%201.jpg" width="35%">
+<img src="https://github.com/raulxbstk/EscuelaIDT-2025/blob/main/Images/IDT%202025_transparente.png" width="35%">
 
 # Escuela de Verano IDT-UTEM: Introducción a la Quimioinformática y Metagenómica
 
