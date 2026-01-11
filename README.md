@@ -5,7 +5,7 @@
 
 Esta Escuela de Verano del Instituto Universitario de Investigación y Desarrollo TEcnológico (IDT) de la Universidad Tecnológica Metropolita (UTEM) está orientada a estudiantes de pregrado y postgrado, afines a las áreas químicas y biológicas, que deseen aprender aspectos generales de métodos computacionales relacionados a la Quimioinformática o la Transcriptómica. 
 
-En el curso de Introducción a la Quimioinformática se abordarán aspectos teóricos y prácticos de las metodologías de docking (acoplamiento molecular), Dinámica molecular clásica y QSAR.  Estas herramientas se relacionan principalmente con la evaluación de interacciones proteína-ligando y la predicción de propiedades de interés en base a descriptores moleculares. El curso será dictado por los académicos Dr. Matías Zúñiga y Dr. Juan Castillo, pertenecientes al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
+En el curso de Introducción a la Quimioinformática se abordarán aspectos teóricos y prácticos de las metodologías de procesamiento de archivos moleculares, docking (acoplamiento molecular) y QSAR.  Estas herramientas se relacionan principalmente con la evaluación de interacciones proteína-ligando y la predicción de propiedades de interés en base a descriptores moleculares. El curso será dictado por los académicos Dr. Matías Zúñiga y Dr. Juan Castillo, pertenecientes al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
 
 El curso de Introducción a la Metagenómica fue diseñado para brindar conocimientos básicos y habilidades prácticas en el análisis de datos Metagenómicos. El curso combina sesiones teóricas con ejercicios prácticos, asegurando que los asistentes adquieran un entendimiento profundo de las técnicas de identificación taxonómica y funcional de organismos en comunidades microbianas. Es una oportunidad valiosa para mejorar la experiencia en el estudio de microbiomas de cualquier lugar utilizando datos de secuenciación de próxima generación (NGS en inglés). El curso será dictado por el académico Dr. Raúl Arias Carrasco, perteneciente al Instituto Universitario de Investigación y Desarrollo Tecnológico (IDT-UTEM) y al programa de Doctorado en Informática Aplicada a Salud y Medio Ambiente, de la Universidad Tecnológica Metropolitana.
 
@@ -45,9 +45,6 @@ _Este video proporciona una introducción a la visualización 3D de archivos de 
 - [Docking Molecular:](https://colab.research.google.com/drive/1H7HtO3B0pE6UDIObriwGbDi3YdFzX378?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
 
-- [Dinámica Molecular Proteína-Ligando:](https://colab.research.google.com/drive/1YSMIjzFkyGl_XXG7520BwulQGddg8SpW?usp=sharing)
-_Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, entre otras, para ejecutar dinámica molecular clásica a través del software NAMD. El cuaderno comprende etapas de preparación de receptores proteicos en el campo de fuerza CHARMM y ligandos utilizando el campo de fuerza CGENFF mediante CHARMM-GUI. Por otro lado se incorporan procedimientos para agregar una caja de solvatación explícita (TIP3P) y neutralización del sistema vía adición de iones Na/Cl. Finalmente se incluye la preparación de los archivos de entrada para los procesos de minimización, equilibrado NVT y producción NPT con su detalle respectivo._
-
 - [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
 _Descripcion: Aqui encontraremos materiales para realizar la parte practica de la clase correspondiente a los estudios QSAR. Tendremos dos programas libres que corren sobre java (instalan su propio entorno si hace falta) uno para el cálculo de los de los descriptores moleculares y el otro para el desarrollo de modelos QSAR. Además en la carpeta tendremos la base de datos de los compuestos que emplearemos como ejemplo en la parte práctica del curso._
 
@@ -60,8 +57,8 @@ _Este cuaderno colaborativo guía a los investigadores en la evaluación de la c
 
 #### Presentaciones curso Quimioinformática:
 
-- [Manejo de Archivos de Moléculas y Docking](https://drive.google.com/file/d/1ny7_Cww4L94S2Vsua6ymscQbzM5MYXYw/view?usp=drive_link)
-- [Dinámica Molecular Proteína-Ligando](https://drive.google.com/file/d/1dieoz53H7NUkybiTY52wqh8UX8tA49tJ/view?usp=sharing)
+- [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1ny7_Cww4L94S2Vsua6ymscQbzM5MYXYw/view?usp=drive_link)
+- [Docking Molecular Proteína-Ligando](https://drive.google.com/file/d/1dieoz53H7NUkybiTY52wqh8UX8tA49tJ/view?usp=sharing)
 
 
 #### Presentaciones curso Metagenómica:
