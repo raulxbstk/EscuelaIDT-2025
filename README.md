@@ -42,7 +42,7 @@ _Este video proporciona una introducción a la visualización 3D de archivos de 
 
 ### Módulos practicos para Quimioinformática:
 
-- [Docking Molecular:](https://colab.research.google.com/drive/1H7HtO3B0pE6UDIObriwGbDi3YdFzX378?usp=sharing)
+- [Docking Molecular:](https://XXXX)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
 
 - [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
@@ -57,8 +57,8 @@ _Este cuaderno colaborativo guía a los investigadores en la evaluación de la c
 
 #### Presentaciones curso Quimioinformática:
 
-- [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1ny7_Cww4L94S2Vsua6ymscQbzM5MYXYw/view?usp=drive_link)
-- [Docking Molecular Proteína-Ligando](https://drive.google.com/file/d/1dieoz53H7NUkybiTY52wqh8UX8tA49tJ/view?usp=sharing)
+- [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1jJf_zP_8ZmDLbRTWxBv6kKwV4I4EPFRc/view?usp=sharing)
+- [Docking Molecular Proteína-Ligando](https:/xxxx)
 
 
 #### Presentaciones curso Metagenómica:
