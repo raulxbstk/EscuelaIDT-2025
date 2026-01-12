@@ -50,7 +50,8 @@ _Descripcion: Aqui encontraremos materiales para realizar la parte practica de l
 
 ### Módulos practicos para Metagenómica:
 
-[Práctico análisis de secuenciación del 16S](https://colab.research.google.com/drive/1J1crFZ8yMAODZqYggowRI65IFjU99vYZ?usp=sharing)
+- [Práctico análisis de secuenciación del 16S](https://colab.research.google.com/drive/1J1crFZ8yMAODZqYggowRI65IFjU99vYZ?usp=sharing) 
+_Este cuaderno de Google Colab se presenta como una guía para el análisis de datos de secuenciación del gen 16S rRNA, empleando el flujo de trabajo DADA2 dentro del entorno de R. El cuaderno abarca las etapas fundamentales del procesamiento de datos de amplicones, incluyendo el control de calidad de las lecturas, filtrado y recorte, aprendizaje de errores, inferencia de variantes de secuencia de amplicón (ASVs), eliminación de quimeras y construcción de la tabla de abundancias. Asimismo, se incluye la asignación taxonómica utilizando bases de datos de referencia y la generación de objetos integrados para análisis posteriores de diversidad y visualización de resultados._
 
 #### Presentaciones curso Quimioinformática:
 
