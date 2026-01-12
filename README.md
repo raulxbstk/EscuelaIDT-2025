@@ -57,7 +57,7 @@ _Este cuaderno colaborativo guía a los investigadores en la evaluación de la c
 
 #### Presentaciones curso Quimioinformática:
 
-- [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1E2XKYX5eg_qCYLISNQSwcUvdF7ef1Ol_/view?usp=sharing)
+- [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1AgGDU9Zr-QLU2bXMhv_BPzGIgtJIJ7oS/view?usp=sharing)
 - [Docking Molecular Proteína-Ligando](https:/xxxx)
 
 
