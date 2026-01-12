@@ -16,7 +16,7 @@ Los invitamos además a revisar nuestro programa de [**Doctorado en Informática
 
 ## Organizadores:
 
-- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
+- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=es), Universidad Tecnológica Metropolitana - UTEM (Chile).
 - [Dr. Juan Castillo-Garit](https://scholar.google.com/citations?user=R2VZGPoAAAAJ&hl=es), Universidad Tecnológica Metropolitana - UTEM (Chile).
 - [Dr. Matias Zuñiga-Bustos](https://scholar.google.com/citations?user=_BUA0-YAAAAJ&hl=es), Universidad Tecnológica Metropolitana - UTEM (Chile).
 
@@ -25,17 +25,17 @@ Los invitamos además a revisar nuestro programa de [**Doctorado en Informática
 
 A continuación, encontrará los enlaces a los vídeos previos al curso y a los cuadernos de Google Colab para los módulos prácticos.
 
-
 ### Material pre-escuela:
 
-- [Introducción a R para Biólogxs:](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html)
-_Este curso ha sido diseñado para presentar R a los biólogos, mostrando algunos conceptos básicos y también algunas cosas poderosas que R puede hacer (cosas que serían más difíciles de hacer con Excel).._
+- [Comenzando con Google Colaboratory:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
+- [Introducción a R:](https://colab.research.google.com/drive/19VBiQONXWd8Zqi350dtRultQRpOE4Bk0?usp=sharing)
+_Este notebook en google colab ha sido diseñado para presentar R y sus tipos de datos, mostrando algunos conceptos básicos y también algunos gráficos que R puede hacer (cosas que serían más difíciles de hacer con Excel).._
 - [Linux para Biólogxs:](https://github.com/ssbcb/Linux-for-biologists-workshop/blob/main/Introduction-to-linux-101/Introduction-to-linux-101.md)
 _Este material cubre los conceptos básicos de shell scripting, una poderosa herramienta para automatizar tareas y procesamiento de datos en bioinformática._
 - [Python para Biólogxs:](https://www.pythonforbiologists.org/)
 _Este material proporciona una colección de episodios con vídeos, códigos y ejercicios para aprender los conceptos básicos del lenguaje de programación Python a través de ejemplos genómicos._
-- [Comenzando con Google Colaboratorio:](https://www.youtube.com/watch?v=inN8seMm7UI)
-_Este video proporciona una comprensión básica de Google Colaboratory o Google Colab y su estructura de cuadernos, que es la plataforma informática interactiva basada en web que usaremos junto con nuestro trabajo práctico de bioinformática._
+
 
 - [(Quimioinformática) Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
 _Este video proporciona una introducción a la visualización 3D de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
@@ -50,10 +50,7 @@ _Descripcion: Aqui encontraremos materiales para realizar la parte practica de l
 
 ### Módulos practicos para Metagenómica:
 
-CAMBIAR AQUI
-
-- [Notebook 01 - Filtrando la calidad de datos RNA-seq](https://colab.research.google.com/drive/18zRlZPG2n9-JBJcwbINkUrHgiqQ-kglV?usp=sharing):
-_Este cuaderno colaborativo guía a los investigadores en la evaluación de la calidad de los datos de secuenciación de ARN. A través de FastQC, MultiQC y Fastp, evalúa rápidamente la integridad de los datos, detecta anomalías y refina los datos para su análisis posterior. Las instrucciones paso a paso y los fragmentos de código permiten a los usuarios aplicar estas herramientas de manera eficiente, lo que garantiza una calidad sólida de los datos para diversos experimentos de secuenciación de ARN. Este recurso, dirigido a investigadores y bioinformáticos, agiliza el análisis de control de calidad y mejora la confiabilidad de los datos, vital para interpretaciones biológicas precisas._
+[Práctico análisis de secuenciación del 16S](https://colab.research.google.com/drive/1J1crFZ8yMAODZqYggowRI65IFjU99vYZ?usp=sharing)
 
 #### Presentaciones curso Quimioinformática:
 
@@ -63,15 +60,13 @@ _Este cuaderno colaborativo guía a los investigadores en la evaluación de la c
 
 #### Presentaciones curso Metagenómica:
 
-- [Bienvenida al curso](https://drive.google.com/file/d/1AyUqi_nkdgKJbfyjex9AWMS_c0_CLvrk/view?usp=drive_link)
-CAMBIAR AQUI
+- [Introducción a 16S](https://drive.google.com/file/d/1zA1XdtaTxUN26w7ekpj2b8ASHen9sDXY/view?usp=sharing)
+
 
 
 ### Autoría y Agradecimientos:
 
-CAMBIAR PARA LA CITA DEL PAPER ORIGINAL
-- [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=en), Universidad Tecnológica Metropolitana - UTEM (Chile).
-
+En el caso del notebook en Google Colab del curso de Introducción a la Metagenómica ha sido desarrollado por el [Dr. Raúl Arias-Carrasco](https://scholar.google.com/citations?user=WRPcvtMAAAAJ&hl=es), tomando como base el material desarrollado por [Callahan y cols](https://f1000research.com/articles/5-1492/v2), agregando visualizaciones y algunos análisis típicos.
 
 En el caso de los notebooks en Google Colab del curso de Introducción a la Quimioinformática han sido desarrollados por el [Dr. Matias Zuñiga-Bustos](https://scholar.google.com/citations?user=_BUA0-YAAAAJ&hl=es), tomando como base para algunos prácticos el material desarrollado por [Engelberger y cols](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00022)
 
