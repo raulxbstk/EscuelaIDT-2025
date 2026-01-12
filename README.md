@@ -56,7 +56,7 @@ _Este cuaderno de Google Colab se presenta como una guía para el análisis de d
 #### Presentaciones curso Quimioinformática:
 
 - Día 01 - [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1AgGDU9Zr-QLU2bXMhv_BPzGIgtJIJ7oS/view?usp=sharing)
-- Día 01 - Práctico [Link Colab Día 1 - Quimioinformática](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
+- Día 01 - [Practico Link Colab Día 1 - Quimioinformática](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
 - 
 - Día 03 - [Docking Molecular Proteína-Ligando](https:/xxxx)
 - Día 03 - Práctico []()
