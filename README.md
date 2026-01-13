@@ -36,7 +36,6 @@ _Este material cubre los conceptos básicos de shell scripting, una poderosa her
 - [Python para Biólogxs:](https://www.pythonforbiologists.org/)
 _Este material proporciona una colección de episodios con vídeos, códigos y ejercicios para aprender los conceptos básicos del lenguaje de programación Python a través de ejemplos genómicos._
 
-
 - [(Quimioinformática) Visualización Molecular Básica con VMD:](https://www.youtube.com/watch?v=qsRxPn20lIQ)
 _Este video proporciona una introducción a la visualización 3D de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
 
@@ -58,7 +57,7 @@ _Este cuaderno de Google Colab se presenta como una guía para el análisis de d
 #### Presentaciones curso Quimioinformática:
 
 - Día 01 - [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1AgGDU9Zr-QLU2bXMhv_BPzGIgtJIJ7oS/view?usp=sharing)
-- 
+- Día 02 - 
 - Día 03 - [Docking Molecular Proteína-Ligando](https:/xxxx)
 
 #### Presentaciones curso Metagenómica:
