@@ -48,6 +48,7 @@ _Este cuaderno de Google Colab se presenta como una guía para la preparación d
 
 - [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
 _Descripcion: Aqui encontraremos materiales para realizar la parte practica de la clase correspondiente a los estudios QSAR. Tendremos dos programas libres que corren sobre java (instalan su propio entorno si hace falta) uno para el cálculo de los de los descriptores moleculares y el otro para el desarrollo de modelos QSAR. Además en la carpeta tendremos la base de datos de los compuestos que emplearemos como ejemplo en la parte práctica del curso._
+- [Material QSAR 2026](https://drive.google.com/drive/folders/1yjhl2-QuGIUTuWFH1R6WgJq4_PXyJsmi?usp=sharing)
 
 ### Módulos practicos para Metagenómica:
 
