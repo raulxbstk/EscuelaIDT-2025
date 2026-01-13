@@ -41,6 +41,8 @@ _Este material proporciona una colección de episodios con vídeos, códigos y e
 _Este video proporciona una introducción a la visualización 3D de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
 
 ### Módulos practicos para Quimioinformática:
+- [Manipulación de archivos](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
+_Este cuaderno de Google Colab permite la manipulaci+on y transformación de formatos de moléculas pequeñas utilizando herramientas como Meeko, Scrubber y Openbabel_
 
 - [Docking Molecular:](https://XXXX)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
@@ -56,7 +58,6 @@ _Este cuaderno de Google Colab se presenta como una guía para el análisis de d
 #### Presentaciones curso Quimioinformática:
 
 - Día 01 - [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1AgGDU9Zr-QLU2bXMhv_BPzGIgtJIJ7oS/view?usp=sharing)
-- Día 01 - [Practico Link Colab Día 1 - Quimioinformática](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
 - 
 - Día 03 - [Docking Molecular Proteína-Ligando](https:/xxxx)
 - Día 03 - Práctico []()
