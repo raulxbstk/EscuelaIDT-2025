@@ -43,7 +43,7 @@ _Este video proporciona una introducción a la visualización 3D de archivos de 
 - [Manipulación de archivos](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
 _Este cuaderno de Google Colab permite la manipulación y transformación de formatos de moléculas pequeñas utilizando herramientas como Meeko, Scrubber y Openbabel_
 
-- [Docking Molecular:](https://XXXX)
+- [Docking Molecular:](https://drive.google.com/file/d/1w4eRhotTUwq3H-JAjWpeDBNChYR1ie_M/view?usp=sharing)
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
 
 - [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
