@@ -59,7 +59,7 @@ _Este cuaderno de Google Colab se presenta como una guía para el análisis de d
 
 - Día 01 - [Manejo de Archivos de Moléculas y Procesamiento](https://drive.google.com/file/d/1AgGDU9Zr-QLU2bXMhv_BPzGIgtJIJ7oS/view?usp=sharing)
 - Día 02 - 
-- Día 03 - [Docking Molecular Proteína-Ligando](https:/xxxx)
+- Día 03 - [Docking Molecular Proteína-Ligando](https://drive.google.com/file/d/1_5SaLcDs9JhqqJ1XP3MK53UAD8vtSHNR/view?usp=sharing)
 
 #### Presentaciones curso Metagenómica:
 
