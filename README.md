@@ -44,6 +44,7 @@ _Este cuaderno de Google Colab permite la manipulación y transformación de for
 
 - [Docking Molecular](https://drive.google.com/file/d/1w4eRhotTUwq3H-JAjWpeDBNChYR1ie_M/view?usp=sharing):
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
+- [Archivo de Proteina Tubulina Prepararda](https://drive.google.com/file/d/13yNoZ1McojnT2BjDS9W3wGDL2VCHmbx2/view?usp=sharing)
 
 - [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link):
 _Descripcion: Aqui encontraremos materiales para realizar la parte practica de la clase correspondiente a los estudios QSAR. Tendremos dos programas libres que corren sobre java (instalan su propio entorno si hace falta) uno para el cálculo de los de los descriptores moleculares y el otro para el desarrollo de modelos QSAR. Además en la carpeta tendremos la base de datos de los compuestos que emplearemos como ejemplo en la parte práctica del curso._
