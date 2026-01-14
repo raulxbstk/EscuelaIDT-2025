@@ -39,26 +39,29 @@ _Este material proporciona una colección de episodios con vídeos, códigos y e
 _Este video proporciona una introducción a la visualización 3D de archivos de proteínas obtenidos desde el servidor Protein Data Bank. Se detalla la carga de archivos, selección de regiones específicas, cambio de tipo de visualización, coloración, entre otros._
 
 ### Módulos prácticos para Quimioinformática:
-- [Manipulación de archivos](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing)
+- [Manipulación de archivos](https://drive.google.com/file/d/1KmsldIuVi52zfNjatyl2JqRQs5IRm7iY/view?usp=sharing):
 _Este cuaderno de Google Colab permite la manipulación y transformación de formatos de moléculas pequeñas utilizando herramientas como Meeko, Scrubber y Openbabel_
 
-- [Docking Molecular:](https://drive.google.com/file/d/1w4eRhotTUwq3H-JAjWpeDBNChYR1ie_M/view?usp=sharing)
+- [Docking Molecular](https://drive.google.com/file/d/1w4eRhotTUwq3H-JAjWpeDBNChYR1ie_M/view?usp=sharing):
 _Este cuaderno de Google Colab se presenta como una guía para la preparación de archivos de macromoléculas y moléculas pequeñas, utilizando herramientas como CHARMM-GUI, VMD, Openbabel, Autodocktools, entre otras, para ejecutar docking molecular a través de software Autodock-Vina y Autodock-GPU. El cuaderno comprende etapas de preparación de receptores proteicos, así como también la manipulación de distintos formatos de archivos de moléculas y su transformación._
 
-- [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link)
+- [Relación cuantitativa estructura-actividad (Quantitative structure-activity relationship, QSAR)](https://drive.google.com/drive/folders/1CIf_1hinSwKwGmmzV5LHUOxBrbXpTeXE?usp=drive_link):
 _Descripcion: Aqui encontraremos materiales para realizar la parte practica de la clase correspondiente a los estudios QSAR. Tendremos dos programas libres que corren sobre java (instalan su propio entorno si hace falta) uno para el cálculo de los de los descriptores moleculares y el otro para el desarrollo de modelos QSAR. Además en la carpeta tendremos la base de datos de los compuestos que emplearemos como ejemplo en la parte práctica del curso._
 - [Material QSAR 2026](https://drive.google.com/drive/folders/1yjhl2-QuGIUTuWFH1R6WgJq4_PXyJsmi?usp=sharing)
 
 ### Módulos prácticos para Metagenómica:
 
-- [Práctico análisis 16S con DADA2](https://colab.research.google.com/drive/1J1crFZ8yMAODZqYggowRI65IFjU99vYZ?usp=sharing) 
+- [Práctico análisis 16S con DADA2](https://colab.research.google.com/drive/1J1crFZ8yMAODZqYggowRI65IFjU99vYZ?usp=sharing):
 _Este cuaderno de Google Colab se presenta como una guía para el análisis de datos de secuenciación del gen 16S rRNA, empleando el flujo de trabajo DADA2 dentro del entorno de R. El cuaderno abarca las etapas fundamentales del procesamiento de datos de amplicones, incluyendo el control de calidad de las lecturas, filtrado y recorte, aprendizaje de errores, inferencia de variantes de secuencia de amplicón (ASVs), eliminación de quimeras y construcción de la tabla de abundancias. Asimismo, se incluye la asignación taxonómica utilizando bases de datos de referencia y la generación de objetos integrados para análisis posteriores de diversidad y visualización de resultados._
 
-- [Práctico análisis 16S con QIIME2](https://colab.research.google.com/github/Gibbons-Lab/isb_course_2024/blob/main/16S_2024_solutions.ipynb)
+- [Práctico análisis 16S con QIIME2](https://colab.research.google.com/github/Gibbons-Lab/isb_course_2024/blob/main/16S_2024_solutions.ipynb):
 _Este cuaderno de Google Colab se presenta como una guía exhaustiva para el análisis de datos de secuenciación del gen 16S rRNA, desarrollada para la 2024 ISB Virtual Microbiome Series. A diferencia de los flujos de trabajo tradicionales en R, este cuaderno emplea la arquitectura de QIIME 2 (Quantitative Insights Into Microbial Ecology), aprovechando su sistema de procedencia de datos y artefactos (.qza y .qzv) para garantizar la reproducibilidad del análisis._
 
-- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html)
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html):
 _Este recurso digital presenta el manuscrito completo de "Fundamentals of Data Visualization", una guía exhaustiva diseñada para la creación de visualizaciones de datos que reflejen la información de manera precisa, profesional y narrativa. La obra surge de la amplia experiencia del autor en la formación de investigadores, recopilando soluciones prácticas a los problemas y errores más comunes en la representación gráfica de datos. El contenido abarca desde los principios teóricos de la percepción visual hasta la ejecución técnica, con el objetivo de transformar datos complejos en historias visuales claras, estéticas y con rigor científico._
+
+- [Docker con JupyterLab y Dada2](https://hub.docker.com/r/raulibi2013/dada2):
+_Este contenedor de Docker se presenta como una solución integral y lista para usar para el análisis bioinformático de microbiomas, proporcionando un entorno preconfigurado con JupyterLab y un Kernel de R. El contenedor elimina la complejidad de la gestión de dependencias ("dependency hell") al integrar herramientas de vanguardia para el procesamiento de datos de metabarcoding. Incluye el flujo de trabajo completo desde el control de calidad y preprocesamiento de lecturas (FastQC, FastP), la inferencia de variantes de secuencia (DADA2), hasta el análisis estadístico avanzado y visualización de biodiversidad (Phyloseq, Vegan, DESeq2). Además, incorpora utilidades para la predicción funcional (PICRUSt2) y el análisis de biomarcadores, garantizando la reproducibilidad total de los análisis en cualquier sistema operativo._
 
 
 #### Presentaciones curso Quimioinformática:
